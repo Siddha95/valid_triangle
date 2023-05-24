@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <cs50>
+#include <cs50.h>
 
 bool valid_triangle( float a, float b, float c);
 
